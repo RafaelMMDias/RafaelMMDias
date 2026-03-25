@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rafael Medeiros Machado Dias</h1>
-<h3 align="center">A passionate frontend develoDesenvolvedor em formação | Automação RPA | Python & Webper from India</h3>
+<h3 align="center"oDesenvolvedor em formação | Automação RPA | Python & Web</h3>
 
 - 📫 How to reach me **rafammdias99@gmail.com**
 
